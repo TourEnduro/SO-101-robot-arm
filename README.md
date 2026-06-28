@@ -6,8 +6,10 @@
 
 ## Demo
 
-> *Video: autonomous pick-and-place after training on 50 human demonstrations*
+**Teleoperation** (data collection):
+(https://www.youtube.com/watch?v=2mo1Rzy8sCw)
 
+**Autonomous execution** (trained ACT policy):
 (https://www.youtube.com/watch?v=vBExmRaZse4)
 
 ---
